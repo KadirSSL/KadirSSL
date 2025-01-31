@@ -35,6 +35,9 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
+      # Set environment variables for further use, for example, setting a custom output
+      - run: echo "snake_generated=true" >> $GITHUB_ENV
+
       # Push the changes
       - name: Push changes
         uses: ad-m/github-push-action@master
@@ -43,6 +46,7 @@ jobs:
           branch: main
           force: true
 
+      # Use GitHub Pages to deploy the generated content
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           # the output branch we mentioned above
