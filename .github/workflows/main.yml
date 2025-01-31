@@ -35,8 +35,13 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      # Set environment variables for further use, for example, setting a custom output
-      - run: echo "snake_generated=true" >> $GITHUB_ENV
+      # Save state (GITHUB_STATE file usage)
+      - name: Save state
+        run: echo "snake_generated=true" >> $GITHUB_STATE
+
+      # Set output (GITHUB_OUTPUT file usage)
+      - name: Set output
+        run: echo "snake_output_path=dist/github-contribution-grid-snake.gif" >> $GITHUB_OUTPUT
 
       # Push the changes
       - name: Push changes
