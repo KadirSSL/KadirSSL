@@ -1,4 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abdulkadir Süslü</h1>
+![](https://komarev.com/ghpvc/?username=KadirSSL&color=blue)
+<div align="center">
+ <a href="https://github.com/KadirSSL">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Kadir+Süslü+%e2%9c%a8;%f0%9f%93%9a+Data+Scientist+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
+
+<img src="https://github.com/KadirSSL/KadirSSL/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+
+
 <h3 align="center">A passionate software developer, a data science and AI enthusiast from Türkiye.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadirssl&label=Profile%20views&color=0e75b6&style=flat" alt="kadirssl" /> </p>
