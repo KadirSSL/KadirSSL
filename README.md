@@ -44,16 +44,6 @@
 
 
  
- <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/KadirSSL/KadirSSL/blob/main/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KadirSSL&theme=material-palenight&hide_border=false" alt="KadirSSL" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/KadirSSL/KadirSSL/blob/main/Bird%20Wing%20Right.png">
-  </a>
-</p>
- 
-
- 
  <br />
  
   
